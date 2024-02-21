@@ -43,4 +43,5 @@
 
 <h3>Contact and Demo:</h3>
 
-<p>Unfortunately, I cannot share the project code publicly. However, if you'd like more detailed information or a demo presentation, please feel free to contact me.</p>
+<p>Unfortunately, I cannot share the project code publicly. However, if you'd like more detailed information or a demo presentation, please feel free to contact me.</p> 
+<b>sinantasyapar@gmail.com</b>
